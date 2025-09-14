@@ -17,6 +17,12 @@ It connects Shopify stores via **webhooks**, ingests data (customers, products, 
 ✅ Secure Shopify Webhook Integration  
 ✅ Real-time Metrics Dashboard  
 
+
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://multi-tenant-shopify-data-ingestion.vercel.app/)
+
+
 ---
 
 ## 📄 Documentation
@@ -55,8 +61,5 @@ npm run dev
 
 
 ---
-## 🌐 Live Demo
 
-in [Multi-Tenant Shopify Dashboard](https://multi-tenant-shopify-data-ingestion.vercel.app/)
 ## 🏗️ Architecture
-
