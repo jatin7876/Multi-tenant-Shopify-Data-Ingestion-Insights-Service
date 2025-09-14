@@ -55,6 +55,8 @@ npm run dev
 
 
 ---
+## 🌐 Live Demo
 
+in [Multi-Tenant Shopify Dashboard](https://multi-tenant-shopify-data-ingestion.vercel.app/)
 ## 🏗️ Architecture
 
